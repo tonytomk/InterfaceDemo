@@ -1,0 +1,7 @@
+C:\Trainings\Interface\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\Trainings\Interface\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\Trainings\Interface\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Trainings\Interface\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csprojResolveAssemblyReference.cache
+C:\Trainings\Interface\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Trainings\Interface\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\Trainings\Interface\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
